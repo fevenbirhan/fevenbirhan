@@ -1,22 +1,43 @@
-Hi, I'm Feven 👋
+# Hi, I'm Feven 👋
 
-I'm a full-stack web developer specializing in building modern, fast, and scalable web applications with **Next.js**, **React**, and **Node.js**. I focus on creating clean UI, secure backend logic, and smooth user experiences.
+I'm a **Full-Stack Developer** and **Junior Cloud Engineer** passionate about building scalable web applications and deploying them using modern cloud infrastructure.
 
-🚀 Tech Stack
+I specialize in creating clean user interfaces, secure backend systems, and deploying production-ready applications on AWS using serverless and cloud-native services.
 
+## 🚀 Tech Stack
+
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-🌟 Featured Projects
+## 🌟 Featured Projects
+
+### ☁️ [Cloud Resume Challenge](https://github.com/fevenbirhan/cloud-resume-challenge)
+A fully serverless portfolio website with a visitor counter. Built to demonstrate cloud engineering skills.
+- **Frontend:** HTML/CSS/JS hosted on **S3**, delivered globally via **CloudFront**
+- **Backend:** **Lambda** (Python) + **API Gateway** + **DynamoDB** for real-time visitor counting
+- **Infrastructure as Code:** Entire backend defined in **Terraform**
+- **CI/CD:** **GitHub Actions** auto-syncs to S3 and invalidates CloudFront cache
+- **Live:** [View Live Site](https://d2rdalbxczg8q.cloudfront.net/)
 
 **AI Customer Support Dashboard** — AI-powered dashboard that categorizes customer messages, suggests replies, provides analytics, and auto-cleans old messages.  
 🔗 Live: https://ai-customer-support-dashboard.vercel.app
@@ -31,3 +52,8 @@ I'm a full-stack web developer specializing in building modern, fast, and scalab
 🔗 Live: https://next-blog-nine-gilt.vercel.app
 
 ---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [feven-belay](https://www.linkedin.com/in/feven-belay-780ba8315)
+- **Email:** fevenbelay632@gmail.com
