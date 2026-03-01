@@ -55,5 +55,5 @@ A fully serverless portfolio website with a visitor counter. Built to demonstrat
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [feven-belay](https://www.linkedin.com/in/feven-belay-780ba8315)
+- **LinkedIn:** [feven-belay](https://www.linkedin.com/in/fevenbelay-freelancer/)
 - **Email:** fevenbelay632@gmail.com
