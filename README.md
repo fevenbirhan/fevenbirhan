@@ -36,6 +36,7 @@ I specialize in creating clean user interfaces, secure backend systems, and depl
 🔗 Live: https://beauty-salon-booking-theta.vercel.app
 
 **Cloud Resume Challenge**
+
 A fully serverless portfolio website with a visitor counter. Built to demonstrate cloud engineering skills.
 - **Frontend:** HTML/CSS/JS hosted on **S3**, delivered globally via **CloudFront**
 - **Backend:** **Lambda** (Python) + **API Gateway** + **DynamoDB** for real-time visitor counting
