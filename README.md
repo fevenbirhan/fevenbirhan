@@ -31,6 +31,9 @@ I specialize in creating clean user interfaces, secure backend systems, and depl
 
 ## 🌟 Featured Projects
 
+**Beauty Salon Appointment Booking System** — A full-stack web app that helps beauty salons manage appointments efficiently and reduce customer wait times. Customers can book services in advance and track their status, while admins control schedules, manage requests, and handle availability in real time. This improves customer experience, reduces missed appointments, and helps businesses serve more clients in a structured and professional way.
+🔗 Live: https://beauty-salon-booking-theta.vercel.app
+
 ### ☁️ [Cloud Resume Challenge](https://github.com/fevenbirhan/cloud-resume-challenge)
 A fully serverless portfolio website with a visitor counter. Built to demonstrate cloud engineering skills.
 - **Frontend:** HTML/CSS/JS hosted on **S3**, delivered globally via **CloudFront**
